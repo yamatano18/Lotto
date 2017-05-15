@@ -1,0 +1,39 @@
+body
+{
+    background-color: #f6f93f;
+}
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+#container
+{
+    min-width: 1000px;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 24px;
+    text-align: center;
+}
+
+#buttonRandom
+{
+    border: #2d22d4 4px solid;
+    border-radius: 15px;
+    font-size: 30px;
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #7773d4;
+}
+
+#board
+{
+    padding: 20px;
+    font-size: 120px;
+    text-decoration: inherit;
+    color: #7a0c0c;
+}
